@@ -6,7 +6,7 @@ Repository: https://github.com/alura-cursos/php-mysql-e-fundamentos-da-web
 
 ## Tutorial
 
-Install wampp and acess localhost/phpmyAdmin & localhost/loja
+Install [wamp](http://www.wampserver.com/en/) and access localhost/phpmyAdmin & localhost/loja
 
 ## SCRIPT SQL
 ````SQL
